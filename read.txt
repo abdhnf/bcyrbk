@@ -1,0 +1,7 @@
+index
+slider : 1920x500
+footer : 1920x999
+project : 720x555
+
+pricelist-grid : 720x1005
+pricelist header : 1920x350
